@@ -5,7 +5,7 @@ public class Circle {
         
         Scanner scanner = new Scanner(System.in);
 
-        double pi = 3.14;
+        double pi = 3;
         double diameter, area, circumference;
 
         System.out.print("Please enter the diameter of the circle: ");
